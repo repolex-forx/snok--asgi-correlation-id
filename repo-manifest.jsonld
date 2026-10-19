@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/snok/asgi-correlation-id/commit/76b61b6325b2a0b29ee96dc1fbf00e2c7de15393",
       "git:hexsha": "76b61b6325b2a0b29ee96dc1fbf00e2c7de15393",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v5.0.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v5.0.1",
+      "repolex:parsedAt": "2026-10-19T12:51:13.700883+00:00"
     },
     {
       "@id": "https://repolex.ai/r/snok/asgi-correlation-id/commit/7a3db2dea5cb6b822c711e749b9ba8bc7c4de65b",
