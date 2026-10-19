@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/snok/asgi-correlation-id/commit/76b61b6325b2a0b29ee96dc1fbf00e2c7de15393",
       "git:hexsha": "76b61b6325b2a0b29ee96dc1fbf00e2c7de15393",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v5.0.1"
     },
     {
